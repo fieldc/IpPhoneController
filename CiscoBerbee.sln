@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CiscoBerbee", "CiscoBerbee\CiscoBerbee.csproj", "{AA740473-06D5-4DE6-9938-53D815ED274E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PhoneClientInstall", "PhoneClientInstall\PhoneClientInstall.vdproj", "{A241BD63-7A47-4A52-8487-695288CF1C97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerbeeWpf", "BerbeeWpf\BerbeeWpf.csproj", "{B4B98E83-C595-45D6-96BA-E361C6C35BC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA740473-06D5-4DE6-9938-53D815ED274E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA740473-06D5-4DE6-9938-53D815ED274E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA740473-06D5-4DE6-9938-53D815ED274E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA740473-06D5-4DE6-9938-53D815ED274E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A241BD63-7A47-4A52-8487-695288CF1C97}.Debug|Any CPU.ActiveCfg = Debug
+		{A241BD63-7A47-4A52-8487-695288CF1C97}.Release|Any CPU.ActiveCfg = Release
+		{B4B98E83-C595-45D6-96BA-E361C6C35BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B98E83-C595-45D6-96BA-E361C6C35BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B98E83-C595-45D6-96BA-E361C6C35BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4B98E83-C595-45D6-96BA-E361C6C35BC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
